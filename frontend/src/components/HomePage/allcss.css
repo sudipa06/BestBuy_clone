@@ -25,7 +25,7 @@
 }
 #divA {
   grid-area: a;
-
+   
   height: 100%;
   /* background-color: aqua; */
 }
@@ -111,6 +111,7 @@ span {
 .Ban1 {
   margin-top: 2%;
   margin-bottom: 2%;
+
 }
 /* hoffers */
 .hoffers > h2,
@@ -144,11 +145,11 @@ span {
 .tdescript {
   color: rgb(84, 82, 82);
 }
-.mapHoff {
+/* .mapHoff{
   /* border: 1px solid black; */
   /* justify-content: space-around; */
   /* margin: auto; */
-}
+
 .mapHoff,
 .smapHoff,
 .scmapHoff {
