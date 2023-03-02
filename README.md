@@ -35,43 +35,37 @@ LandingPage LandingPage This is the landing page of our website. You can see and
 
 <h1>SignUp</h1>
 <ur></ur>
+<img src="![image](https://user-images.githubusercontent.com/108051005/222461511-c077ee19-f70b-4a01-9888-247121a0118d.png)
+"/>
 You can signup with our website from here .
 
 <h1>Login</h1>
 <ur></ur>
+<img src="![image](https://user-images.githubusercontent.com/108051005/222461950-e2756c04-743d-49b6-81b5-b29f08bc0cc5.png)
+"/>
 You can login to our website from here by entering required details.
 
-<!-- <h1>Product Page</h1>
+<h1>Product Page</h1>
 <ur></ur>
-<img src=""/>
-ProductPage
-
+<img src="![image](https://user-images.githubusercontent.com/108051005/222463088-416de912-d706-4f7b-a294-a25abb67ec4f.png)
+"/>
 Here, you can choose a category of products whatever you want.
 
-Products Page
-ProductsPage
-
-Here, you can see all the products and whenever you hover on any product you will see ADD TO CART option, bu clicking the button you can add the products to cart.
-
-SingleProduct Page
-SingleProductPage
+<h1>SingleProduct Page</h1>
+<ur></ur>
+<img src=""![image](https://user-images.githubusercontent.com/108051005/222464176-f1dec909-94ea-4446-9ea5-2f7d721ef657.png)
+/>
 
 Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
-Address Page
-AddressPage
-
-In this page you can add your address to where your product should be delivered.
-
-Checkout Page
-CheckoutPage
-
-Payment Page
-PaymentPage
+<h1>Payment Page</h1>
+<ur></ur>
+<img src="![image](https://user-images.githubusercontent.com/108051005/222464809-eebb67b7-9fec-49dd-a1de-527161086c34.png)
+"/>
 
 You can see lot of payment options here and you can choose any one of them to pay for your product.
 
-Summary Page -->
+
 <h1>Limitations</h1>
 <ur></ur>
 Home page is fully responsive but remaining pages are not responsive yet , those pages are might not be properly visible on small screen devices.
