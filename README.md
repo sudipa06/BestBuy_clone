@@ -58,7 +58,7 @@ Here, you can see all of your products which are added into cart, you can avail 
 <h1>Payment and Checkout Page</h1>
 <ur></ur>
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/108051005/222510624-1268e90b-ce93-4e25-bc8f-4356d5cb9f70.PNG">
-
+<br/>
 You can see lot of payment options here and you can choose any one of them to pay for your product.
 
 <h1>Limitations</h1>
