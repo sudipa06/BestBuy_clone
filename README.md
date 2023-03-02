@@ -28,7 +28,7 @@ All the images, icons, and links have taken from the original website (https://w
 <ur></ur>
  <h1>Landing Page</h1>
 <ur></ur>
-<img src="[https://i.postimg.cc/MGx2cD9h/bestbuy-sc.png](https://github.com/gautam6023/bestbuy.com/raw/main/bestbuyss/Screenshot%20(2131).png)">
+<img src="https://i.postimg.cc/MGx2cD9h/bestbuy-sc.png">
 LandingPage LandingPage This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
 <!-- <h1>SignUp</h1>
