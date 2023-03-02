@@ -26,7 +26,7 @@ To make this clone we have used HTMl, CSS and JavaScript for front-end and NodeJ
 <ur></ur>
 All the images, icons, and links have taken from the original website (https://www.bestbuy.com/)
 
-<h1>Snapshots of Our Project 📸</h1>
+<!-- <h1>Snapshots of Our Project 📸</h1> -->
 <ur></ur>
 <h1>Landing Page</h1>
 <ur></ur>
