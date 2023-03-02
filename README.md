@@ -34,35 +34,58 @@ All the images, icons, and links have taken from the original website (https://w
 
 LandingPage LandingPage This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
-<!-- <h1>SignUp</h1>
+<h1>SignUp</h1>
 <ur></ur>
-<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/108051005/222510624-1268e90b-ce93-4e25-bc8f-4356d5cb9f70.PNG">
-You can signup with our website from here . -->
 
-<!-- <h1>Login</h1>
+
+
+
+
+![signup](https://user-images.githubusercontent.com/108051005/222520926-5396d48f-871a-48df-9e2f-e64488138dc9.PNG)
+
+
+
+You can signup with our website from here .
+
+<h1>Login</h1>
 <ur></ur>
-<img src="![image](https://user-images.githubusercontent.com/108051005/222461950-e2756c04-743d-49b6-81b5-b29f08bc0cc5.png)
-"/>
+
+
+
+![login](https://user-images.githubusercontent.com/108051005/222521147-367f6bdc-178d-4a45-bf6a-4b73c933873c.PNG)
+
+
 You can login to our website from here by entering required details.
- -->
+
 <h1>Product Page</h1>
 <ur></ur>
-<img src="https://github.com/gautam6023/bestbuy.com/raw/main/bestbuyss/Screenshot%20(2133).png
-"/>
+
+![product](https://user-images.githubusercontent.com/108051005/222519857-54a38b3c-7be2-43e0-bcc5-1edfbff0fb7a.PNG)
+
 Here, you can choose a category of products whatever you want.
 
 <h1>SingleProduct Page</h1>
 <ur></ur>
-<img src="https://github.com/gautam6023/bestbuy.com/raw/main/bestbuyss/Screenshot%20(2134).png
-"/>
+
+
+
+
+![singleproduct](https://user-images.githubusercontent.com/108051005/222520267-e899d96e-8e51-4bb7-b0ce-e704a409c7d0.PNG)
+
 
 Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
 <h1>Payment and Checkout Page</h1>
 <ur></ur>
-<img align="left" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/108051005/222510624-1268e90b-ce93-4e25-bc8f-4356d5cb9f70.PNG">
+![image](https://user-images.githubusercontent.com/108051005/222520548-c409b27c-f3e9-4168-9f82-c81015e9c167.png)
+
+
+
+
 <br/>
 You can see lot of payment options here and you can choose any one of them to pay for your product.
+
+
 
 <h1>Limitations</h1>
 <ur></ur>
