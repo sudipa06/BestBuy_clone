@@ -28,7 +28,10 @@ All the images, icons, and links have taken from the original website (https://w
 <ur></ur>
  <h1>Landing Page</h1>
 <ur></ur>
-<img src="https://drive.google.com/file/d/1iYyf-s52v1VTm_0Br3M8rH0Oyjkbv69W/view?usp=share_link">
+
+![landing](https://user-images.githubusercontent.com/108051005/222519232-3bb41689-234f-4794-95e3-a1bb7195e206.PNG)
+
+
 LandingPage LandingPage This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
 <!-- <h1>SignUp</h1>
