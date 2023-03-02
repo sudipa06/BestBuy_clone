@@ -28,7 +28,7 @@ All the images, icons, and links have taken from the original website (https://w
 
 <!-- <h1>Snapshots of Our Project 📸</h1> -->
 <ur></ur>
-<h1>Landing Page</h1>
+<!-- <h1>Landing Page</h1>
 <ur></ur>
 <img src="https://i.postimg.cc/MGx2cD9h/bestbuy-sc.png">
 LandingPage LandingPage This is the landing page of our website. You can see and choose all latest and trending top products from here.
@@ -64,7 +64,7 @@ Here, you can see all of your products which are added into cart, you can avail 
 "/>
 
 You can see lot of payment options here and you can choose any one of them to pay for your product.
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------- -->
 <h1>Limitations</h1>
 <ur></ur>
 Home page is fully responsive but remaining pages are not responsive yet , those pages are might not be properly visible on small screen devices.
