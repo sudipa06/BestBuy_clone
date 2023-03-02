@@ -26,39 +26,39 @@ All the images, icons, and links have taken from the original website (https://w
 
 <!-- <h1>Snapshots of Our Project 📸</h1> -->
 <ur></ur>
-<!-- <h1>Landing Page</h1>
+ <h1>Landing Page</h1>
 <ur></ur>
-<img src="https://i.postimg.cc/MGx2cD9h/bestbuy-sc.png">
+<img src="[https://i.postimg.cc/MGx2cD9h/bestbuy-sc.png](https://github.com/gautam6023/bestbuy.com/raw/main/bestbuyss/Screenshot%20(2131).png)">
 LandingPage LandingPage This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
-<h1>SignUp</h1>
+<!-- <h1>SignUp</h1>
 <ur></ur>
 <img src="https://drive.google.com/file/d/1iYyf-s52v1VTm_0Br3M8rH0Oyjkbv69W/view?usp=sharing
 "/>
-You can signup with our website from here .
+You can signup with our website from here . -->
 
-<h1>Login</h1>
+<!-- <h1>Login</h1>
 <ur></ur>
 <img src="![image](https://user-images.githubusercontent.com/108051005/222461950-e2756c04-743d-49b6-81b5-b29f08bc0cc5.png)
 "/>
 You can login to our website from here by entering required details.
-
+ -->
 <h1>Product Page</h1>
 <ur></ur>
-<img src="![image](https://user-images.githubusercontent.com/108051005/222463088-416de912-d706-4f7b-a294-a25abb67ec4f.png)
+<img src="https://github.com/gautam6023/bestbuy.com/raw/main/bestbuyss/Screenshot%20(2133).png
 "/>
 Here, you can choose a category of products whatever you want.
 
 <h1>SingleProduct Page</h1>
 <ur></ur>
-<img src="![image](https://user-images.githubusercontent.com/108051005/222464176-f1dec909-94ea-4446-9ea5-2f7d721ef657.png)
+<img src="https://github.com/gautam6023/bestbuy.com/raw/main/bestbuyss/Screenshot%20(2134).png
 "/>
 
 Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
-<h1>Payment Page</h1>
+<h1>Payment and Checkout Page</h1>
 <ur></ur>
-<img src="![image](https://user-images.githubusercontent.com/108051005/222464809-eebb67b7-9fec-49dd-a1de-527161086c34.png)
+<img src="https://github.com/gautam6023/bestbuy.com/raw/main/bestbuyss/Screenshot%20(2136).png
 "/>
 
 You can see lot of payment options here and you can choose any one of them to pay for your product.
