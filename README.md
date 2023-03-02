@@ -17,9 +17,7 @@ CSS
 JAVASCRIPT
 ReactJS
 Redux
-EXPRESS
-NODEJS
-MONGODB - Atlas
+
 To make this clone we have used HTMl, CSS and JavaScript for front-end and NodeJS, ExpressJs and MongoDB for back-end.
 
 <h1>Libraries Used</h1>
