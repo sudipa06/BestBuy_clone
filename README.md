@@ -75,14 +75,19 @@ Here, you can choose a category of products whatever you want.
 
 Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
-<h1>Payment and Checkout Page</h1>
+<h1>Payment Page</h1>
 <ur></ur>
-![image](https://user-images.githubusercontent.com/108051005/222520548-c409b27c-f3e9-4168-9f82-c81015e9c167.png)
 
 
 
 
-<br/>
+
+
+![payment](https://user-images.githubusercontent.com/108051005/222522890-18784154-34fb-4e1f-9fb5-9a1b901ae853.PNG)
+
+
+
+
 You can see lot of payment options here and you can choose any one of them to pay for your product.
 
 
