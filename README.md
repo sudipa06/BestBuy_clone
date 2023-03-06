@@ -32,7 +32,7 @@ All the images, icons, and links have taken from the original website (https://w
 ![landing](https://user-images.githubusercontent.com/108051005/222519232-3bb41689-234f-4794-95e3-a1bb7195e206.PNG)
 
 
-LandingPage LandingPage This is the landing page of our website. You can see and choose all latest and trending top products from here.
+This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
 <h1>SignUp</h1>
 <ur></ur>
@@ -92,9 +92,7 @@ You can see lot of payment options here and you can choose any one of them to pa
 
 
 
-<h1>Limitations</h1>
-<ur></ur>
-Home page is fully responsive but remaining pages are not responsive yet , those pages are might not be properly visible on small screen devices.
+
 
 <h1>End Notes</h1>
 <ur></ur>
